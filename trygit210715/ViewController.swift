@@ -14,7 +14,6 @@ class ViewController: UIViewController {
          */
         
         // App Store 1
-        //test
     }
 }
 
